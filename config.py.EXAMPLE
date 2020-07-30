@@ -1,0 +1,5 @@
+server = {
+    "EMAIL":"user@email.com",
+    "PWD":"password",
+    "IMAP":"imap.server.com"
+}
